@@ -1,0 +1,8 @@
+C:\Users\PC.5014885\Documents\SharpDevelop Projects\Puerto Serie\Puerto Serie\obj\Debug\Puerto Serie.csprojResolveAssemblyReference.cache
+C:\Users\PC.5014885\Documents\SharpDevelop Projects\Puerto Serie\Puerto Serie\obj\Debug\Puerto_Serie.MainForm.resources
+C:\Users\PC.5014885\Documents\SharpDevelop Projects\Puerto Serie\Puerto Serie\obj\Debug\Puerto Serie.csproj.GenerateResource.Cache
+C:\Users\PC.5014885\Documents\SharpDevelop Projects\Puerto Serie\Puerto Serie\bin\Debug\Puerto Serie.exe.config
+C:\Users\PC.5014885\Documents\SharpDevelop Projects\Puerto Serie\Puerto Serie\bin\Debug\Puerto Serie.exe
+C:\Users\PC.5014885\Documents\SharpDevelop Projects\Puerto Serie\Puerto Serie\bin\Debug\Puerto Serie.pdb
+C:\Users\PC.5014885\Documents\SharpDevelop Projects\Puerto Serie\Puerto Serie\obj\Debug\Puerto Serie.exe
+C:\Users\PC.5014885\Documents\SharpDevelop Projects\Puerto Serie\Puerto Serie\obj\Debug\Puerto Serie.pdb

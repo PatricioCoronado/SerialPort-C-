@@ -1,0 +1,24 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+# SharpDevelop 5.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Puerto Serie", "Puerto Serie\Puerto Serie.csproj", "{ED409570-DDB6-4ADC-BE7E-0446AEF90274}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PuertoSerie2", "PuertoSerie2\PuertoSerie2.csproj", "{CEAA6950-37B5-4319-BAD8-18D8C331DECB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{ED409570-DDB6-4ADC-BE7E-0446AEF90274}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ED409570-DDB6-4ADC-BE7E-0446AEF90274}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ED409570-DDB6-4ADC-BE7E-0446AEF90274}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ED409570-DDB6-4ADC-BE7E-0446AEF90274}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CEAA6950-37B5-4319-BAD8-18D8C331DECB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CEAA6950-37B5-4319-BAD8-18D8C331DECB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CEAA6950-37B5-4319-BAD8-18D8C331DECB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CEAA6950-37B5-4319-BAD8-18D8C331DECB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
